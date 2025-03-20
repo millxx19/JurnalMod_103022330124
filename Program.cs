@@ -25,6 +25,7 @@
         public static void Main()
         {
             PemrosesData data = new PemrosesData();
+            /*NIM*/
             Console.WriteLine("Nilai terbesar adalah: " + data.DapatNilaiTerbesar<double>(10, 30, 22));
         }
     }
